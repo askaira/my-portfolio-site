@@ -1,7 +1,8 @@
+---
+layout: default
+title: My Portfolio
+---
+
 # Welcome to My Portfolio
 
-Explore my work and background.
-
-[About Me](about.md)  
-[Projects](projects.md)  
-[Contact](contact.md)
+[About Me](about.md) | [Projects](projects.md) | [Contact](contact.md)

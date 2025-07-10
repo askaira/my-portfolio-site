@@ -7,5 +7,7 @@ title: Home
 
 This is a simple portfolio site built with GitHub Pages and Jekyll.
 
-🧭 Navigate to [About Me](about.md)
+🧭 Navigate:
+[About Me](about.md) | [Projects](projects.md) | [Contact](contact.md)
+
 ![Hero Image](/assets/images/hero.jpg)

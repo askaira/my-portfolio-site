@@ -1,0 +1,14 @@
+title: My Portfolio
+description: >- 
+  A personal site built with GitHub Pages and Jekyll
+baseurl: "/my-portfolio-site"
+url: "https://askaira.github.io"  # change this to your GitHub Pages URL
+
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: Ashwani Kaira
+  email: ashwani@example.com

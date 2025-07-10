@@ -1,9 +1,12 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: About Me
 ---
 
-# About Me
+# 👤 About Me
 
-I'm Ashwani Kaira, and this is my personal website.
+I'm a web developer passionate about open-source and creating fast, accessible web experiences.
+
+💡 I use GitHub Pages to host my personal projects and portfolios.
+
+[← Back to Home](index.md)

@@ -4,10 +4,21 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }} | {{ site.title }}</title>
+  {% seo %}
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E6K48P9Z9T"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-E6K48P9Z9T');
+  </script>
 </head>
+
 <body>
   <header>
-    <img src="{{ '/assets/images/hero.jpg' | relative_url }}" alt="Hero Image" style="max-width:100%;">
+    <img src="/assets/images/hero.jpg" alt="Ashwani Kaira Portrait" />
 
 
     <h1>{{ site.title }}</h1>

@@ -1,14 +1,17 @@
 title: Ashwani Kaira Portfolio
 description: A personal portfolio site hosted on GitHub Pages.
-baseurl: ""  # Leave this blank if deploying at https://askaira.github.io/my-portfolio-site
-url: "https://askaira.github.io"  # Your GitHub Pages domain
+baseurl: "" # Leave this blank if deploying at https://askaira.github.io/my-portfolio-site
+url: "https://askaira.github.io"
 
-theme: null  # null because we are using a custom layout
+theme: null # Using custom layout
 plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
 
+google_analytics: G-E6K48P9Z9T  # ✅ Your GA4 Tracking ID
+
+# Optional Metadata
 author:
   name: Ashwani Kaira
   email: your@email.com
